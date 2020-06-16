@@ -15,7 +15,7 @@ body {
     padding: 0;
     margin: 0;
     overflow:hidden;
-    background: #A2A1D0;
+    background: #000;
     cursor: move;
     user-select:none;
     & .input{
